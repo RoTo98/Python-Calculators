@@ -1,6 +1,6 @@
-def counter (n):
-    if n == 1:
+def counter (k):
+    if k == 1:
         return 1
     else:
-        return n*counter(n-1)
+        return k*counter(n-1)
 
