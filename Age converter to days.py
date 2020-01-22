@@ -1,4 +1,4 @@
-def converteParaDias (anos, meses, dias):
-    idadeEmDias = anos*360 + meses*30 + dias
-    return idadeEmDias
+def ConverteParaDias (anos, meses, dias):
+    IdadeEmDias = anos*360 + meses*30 + dias
+    return IdadeEmDias
     
